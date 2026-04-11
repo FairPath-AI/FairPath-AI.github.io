@@ -31,11 +31,10 @@ FairPath AI acts as a support system that helps students:
 - **Compliance Auditor** — monitors fairness and responsible AI use
 
 ## Tools & Data Sources
-- O*NET API
 - College Scorecard
 - USCIS policy data
 - Kaggle job market data
-- AI Fairness 360
+- Chatgpt
 
 ## Vision
 
